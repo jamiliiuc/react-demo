@@ -1,0 +1,10 @@
+.visited-countries{
+    gap: 10px;
+    padding: 10px;
+    background-color: #edf57a;
+    display: flex;
+    flex-wrap: wrap;
+}
+.visited-countries img{
+    height: 40px;
+}

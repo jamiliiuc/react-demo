@@ -1,0 +1,10 @@
+.country{
+    border: 1px solid lightcoral;
+    padding: 5px;
+}
+.country>figure{
+    height: 100px;
+}
+.country img{
+    height: 100%;
+}
